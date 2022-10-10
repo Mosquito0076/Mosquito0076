@@ -1,7 +1,12 @@
-<div align="center">
+<div class="box" align="center">
         <div style="text-align:center;font-size:70px;font-weight:bold;color:white;">홍성목</div>
         <div style="text-align:center;font-size:24px;font-weight:bold;color:white;">Mosquito0076</div>
 </div>
+<style type="text/css">
+    [class*=box] {background-image: url(https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg); background-size:cover; padding:30px;}
+</style>
+
+
 
 
 
@@ -42,11 +47,19 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
-- style="background-image: url(https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg);background-size:cover;padding:30px;"-->
+
+  -->
