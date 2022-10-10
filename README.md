@@ -1,4 +1,4 @@
-<div style="background-image: url(https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg);background-repeat:no-repeat;background-size:cover;display:flex;justify-content:center;align-items:center;padding:30px;">
+<div style="background-image: url(https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg);background-size:cover;padding:30px;" align="center">
     <div>
         <div style="text-align:center;font-size:70px;font-weight:bold;color:white;">홍성목</div>
         <div style="text-align:center;font-size:24px;font-weight:bold;color:white;">Mosquito0076</div>
