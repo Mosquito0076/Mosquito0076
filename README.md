@@ -1,9 +1,7 @@
 <div>
-	<img src="https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg" alt="bg">
-    <div class="box" align="center">
-        <div color="white">홍성목</div>
-        <div >Mosquito0076</div>
-	</div>
+	<img src="https://user-images.githubusercontent.com/95673624/194924579-8b71dea9-3122-45a6-84a6-620b61797c65.png" alt="bg">
+    <br>
+    <br>
 	<div>
 		<div align="center">
             <h3>🛠 Tech Stack 🛠</h2>
