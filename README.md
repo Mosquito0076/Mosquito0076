@@ -8,7 +8,7 @@
 
 
 <div>
-	<div style="font-weight:bold" align="center">
+	<div style="font-weight:bold;margin-bottom:20px;font-size:40px;" align="center">
         🛠 Tech Stack 🛠
     </div>
 	<div style="display:flex;justify-content:center;margin-bottom:10px;" align="center">
