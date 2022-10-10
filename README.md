@@ -22,15 +22,14 @@
 		<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">        
     </div>
 </div>
-<style type="text/css">
+
+
+
+
+
+<style type='text/css'>
     [class*=box] {background-image: url(https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg); background-size:cover; padding:30px;}
 </style>
-
-
-
-
-
-
 
 
 
