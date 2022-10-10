@@ -1,5 +1,5 @@
 <div>
-	<img src="https://user-images.githubusercontent.com/95673624/194924579-8b71dea9-3122-45a6-84a6-620b61797c65.png" alt="bg">
+	<img src="https://user-images.githubusercontent.com/95673624/194925244-b4abe308-02c9-47aa-b641-4f18b9f9874a.png" alt="bg">
     <br>
     <br>
 	<div>
@@ -22,7 +22,10 @@
             <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">        
         </div>
     </div>
+    <br>
+    <br>
 </div>
+
 
 
 
