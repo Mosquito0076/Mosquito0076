@@ -5,9 +5,9 @@
    	</div>
 </div>
 
-<center>🛠 **Tech Stack** 🛠</center>
 
 
+🛠 **Tech Stack** 🛠
 
 <div>
 	<div style="display:flex;justify-content:center;margin-bottom:10px;" align="center">
