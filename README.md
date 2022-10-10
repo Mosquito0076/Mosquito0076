@@ -1,8 +1,6 @@
-<div background="https://user-images.githubusercontent.com/95673624/194904997-55b6b423-2265-4d4f-9173-03531c19d2e4.jpg" align="center">
-    <div>
+<div align="center">
         <div style="text-align:center;font-size:70px;font-weight:bold;color:white;">홍성목</div>
         <div style="text-align:center;font-size:24px;font-weight:bold;color:white;">Mosquito0076</div>
-   	</div>
 </div>
 
 
@@ -11,7 +9,6 @@
 	<div align="center">
         <h3>🛠 Tech Stack 🛠</h2>
     </div>
-    <br>
     <br>
 	<div align="center">
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
