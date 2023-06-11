@@ -1,5 +1,5 @@
 <div>
-	<img src="https://user-images.githubusercontent.com/95673624/194925244-b4abe308-02c9-47aa-b641-4f18b9f9874a.png" alt="bg">
+    <img src="https://user-images.githubusercontent.com/95673624/194925244-b4abe308-02c9-47aa-b641-4f18b9f9874a.png" alt="bg">
     <br>
     <br>
 	<div>
@@ -45,19 +45,23 @@
         </div>
         <br>
         <div align="center">
+	    <a href="https://www.morai.ai">
+		MORAI
+	    </a>
+	     (2023.06 ~ ing)
+	    <a href="http://sisabest.com/?vid=15">
+                시사 SLS 어학원
+            </a>
+             (2021.09 ~ 2023.05) - EJU 수학, 물리, 화학 시간강사
+            <br>
             <a href="https://www.ssafy.com">
                 삼성 청년 소프트웨어 아카데미(SSAFY)
             </a>
              (2022.01 ~ 2022.12) - 비전공 트랙
-            <br>
-            <a href="http://sisabest.com/?vid=15">
-                SLS 어학원
-            </a>
-             (2021.09 ~ 2023.05) - EJU 수학, 물리, 화학 시간강사
         </div>
         <br>
         <br>
-		<div align="center">
+	<div align="center">
             <h1>Tech Stack</h1>
         </div>
         <br>
