@@ -48,7 +48,7 @@
 	    <a href="https://www.morai.ai">
 		MORAI
 	    </a>
-	     (2023.06 ~ ing) - Application Engineer
+	     (2023.06 ~ ing) - Development Team
 	    <br>
 	    <a href="http://sisabest.com/?vid=15">
                 시사 SLS 어학원
